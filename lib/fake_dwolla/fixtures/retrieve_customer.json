@@ -1,0 +1,39 @@
+{
+   "_links":{
+      "self":{
+         "href":"https://api-uat.dwolla.com/customers/47bebab7-874b-47bd-9f69-392dce732ca7",
+         "type":"customer"
+      },
+      "receive":{
+         "href":"https://api-uat.dwolla.com/transfers",
+         "type":"transfer"
+      },
+      "edit":{
+         "href":"https://api-uat.dwolla.com/customers/47bebab7-874b-47bd-9f69-392dce732ca7",
+         "type":"customer"
+      },
+      "funding-sources":{
+         "href":"https://api-uat.dwolla.com/customers/47bebab7-874b-47bd-9f69-392dce732ca7/funding-sources",
+         "type":"funding-source"
+      },
+      "transfers":{
+         "href":"https://api-uat.dwolla.com/customers/47bebab7-874b-47bd-9f69-392dce732ca7/transfers",
+         "type":"transfer"
+      },
+      "send":{
+         "href":"https://api-uat.dwolla.com/transfers",
+         "type":"transfer"
+      }
+   },
+   "id":"47bebab7-874b-47bd-9f69-392dce732ca7",
+   "firstName":"hawaii",
+   "lastName":"ho",
+   "email":"hawaii_ho@dinngo.co",
+   "type":"personal",
+   "status":"verified",
+   "created":"2016-06-30T07:47:52.173Z",
+   "address1":"hahaha ave",
+   "city":"San Jose",
+   "state":"CA",
+   "postalCode":"95127"
+}

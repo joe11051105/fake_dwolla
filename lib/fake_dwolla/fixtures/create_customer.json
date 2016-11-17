@@ -1,0 +1,12 @@
+{
+  "date":"Mon, 03 Oct 2016 07:42:49 GMT",
+  "content-length":"0",
+  "connection":"close",
+  "set-cookie":"__cfduid=da7e36f58b4370394a069a3ec81c93b8c1475480567; expires=Tue, 03-Oct-17 07:42:47 GMT; path=/; domain=.dwolla.com; HttpOnly",
+  "location":"https://api-uat.dwolla.com/customers/44164922-5323-4087-9dc9-648794e9513f",
+  "x-content-type-options":"nosniff",
+  "x-request-id":"0d9e9448-eccd-4b39-8871-0d4288f0ad74",
+  "x-xss-protection":"1; mode=block",
+  "server":"cloudflare-nginx",
+  "cf-ray":"2ebec26d691f45b4-TPE"
+}

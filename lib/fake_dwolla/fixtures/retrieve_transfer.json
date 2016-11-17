@@ -1,0 +1,36 @@
+{
+   "_links":{
+      "source":{
+         "href":"https://api-uat.dwolla.com/customers/a9a7da31-bed7-47c2-b2a6-d62e8f0ab923",
+         "type":"application/vnd.dwolla.v1.hal+json",
+         "resource-type":"customer"
+      },
+      "destination-funding-source":{
+         "href":"https://api-uat.dwolla.com/funding-sources/5dbbce95-8180-4742-b2cf-2df73c07ffa6",
+         "type":"application/vnd.dwolla.v1.hal+json",
+         "resource-type":"funding-source"
+      },
+      "self":{
+         "href":"https://api-uat.dwolla.com/transfers/4b9028cb-9196-e611-80e9-0aa34a9b2388",
+         "type":"application/vnd.dwolla.v1.hal+json",
+         "resource-type":"transfer"
+      },
+      "source-funding-source":{
+         "href":"https://api-uat.dwolla.com/funding-sources/4e1f2504-a303-4bdc-bfd8-3988237f10fb",
+         "type":"application/vnd.dwolla.v1.hal+json",
+         "resource-type":"funding-source"
+      },
+      "destination":{
+         "href":"https://api-uat.dwolla.com/customers/ae9f8158-6ca9-420a-aae0-a142a56dce49",
+         "type":"application/vnd.dwolla.v1.hal+json",
+         "resource-type":"customer"
+      }
+   },
+   "id":"4b9028cb-9196-e611-80e9-0aa34a9b2388",
+   "status":"processed",
+   "amount":{
+      "value":"11.50",
+      "currency":"usd"
+   },
+   "created":"2016-10-20T06:52:41.180Z"
+}

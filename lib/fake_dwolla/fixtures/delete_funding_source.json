@@ -1,0 +1,17 @@
+{
+   "_links":{
+      "self":{
+         "href":"https://api-uat.dwolla.com/funding-sources/1e25c4ab-e791-4526-9d26-7765d8d62e8b",
+         "type":"funding-source"
+      }
+   },
+   "id":"1e25c4ab-e791-4526-9d26-7765d8d62e8b",
+   "status":"verified",
+   "type":"bank",
+   "name":"Your Account #1 - CHECKING",
+   "created":"2016-10-04T06:04:59.000Z",
+   "removed":true,
+   "channels":[
+      "ach"
+   ]
+}

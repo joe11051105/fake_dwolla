@@ -1,0 +1,19 @@
+{
+   "_links":{
+      "self":{
+         "href":"https://api-uat.dwolla.com/funding-sources/830a3ec6-cd01-49c5-85e4-3cb2560150f3/balance",
+         "type":"application/vnd.dwolla.v1.hal+json",
+         "resource-type":"balance"
+      },
+      "funding-source":{
+         "href":"https://api-uat.dwolla.com/funding-sources/830a3ec6-cd01-49c5-85e4-3cb2560150f3",
+         "type":"application/vnd.dwolla.v1.hal+json",
+         "resource-type":"funding-source"
+      }
+   },
+   "balance":{
+      "value":"4.45",
+      "currency":"USD"
+   },
+   "lastUpdated":"2016-11-08T09:40:44.599Z"
+}
